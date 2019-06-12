@@ -1,0 +1,6 @@
+Esta es una versión un poco mas terminada, siguen faltando muchos tests pero quice hacer algo básico que salga andando
+mas o menos bien y con un diseño decente(y faltan muchos 'if s' por sacar todavia), las exceptions que estaba mandando
+antes estaban mal, me  olvidé de borrarlas (ya que deberiamos esperar un input incorrecto del usuario muchas veces).
+Además de las 2 horas del hackerrank me tomo unas 6/7 adicionales terminar de mejorarlo.
+
+Saludos!
